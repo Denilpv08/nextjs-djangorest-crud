@@ -67,9 +67,4 @@ python -m pip install django-cors-headers
 
 # Levantar servidor
 python manage.py runserver
-
-
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
 ```
