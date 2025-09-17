@@ -23,6 +23,9 @@ Permite crear, editar, marcar como completadas y eliminar tareas, todo con una i
 
 ---
 
+## Codigo del frontend
+git clone https://github.com/Denilpv08/nextjs-djangorest.git
+
 ## 📦 Requisitos previos
 
 Antes de comenzar, asegúrate de tener instalado:
